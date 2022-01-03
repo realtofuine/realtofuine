@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @realtofuine
 - 👀 I’m interested in cool stuff
 - 🌱 I’m currently in school
-- 📫 How to reach me I think you can send messages here idk
+- 📫 Thank you for reading this
 
 <!---
 realtofuine/realtofuine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
