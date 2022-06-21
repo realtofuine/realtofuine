@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @realtofuine
 - 👀 I’m interested in cool stuff
 - 🌱 I’m currently in school
+- 🍌 I love bananas!
 - 📫 Thank you for reading this
 
 <!---
