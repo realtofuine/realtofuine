@@ -10,4 +10,6 @@
 
 <figure><embed src="https://wakatime.com/share/@tofuine/946543b4-9c9f-4199-b420-0a8620033e55.svg"></embed></figure>
 
+<p><a href="https://wakatime.com/share/@tofuine/946543b4-9c9f-4199-b420-0a8620033e55.svg"><img alt="Realtofuine's Activity Graph" src="https://wakatime.com/share/@tofuine/946543b4-9c9f-4199-b420-0a8620033e55.svg"/></a></p>
+
 <!-- [![Top Langs](https://github-readme-stats-private-xi.vercel.app/api/top-langs/?username=realtofuine&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
