@@ -4,7 +4,7 @@
 - 🍌 I love bananas!
 - 📫 Thank you for reading this
 
-[![realtofuine's GitHub stats](https://github-readme-stats.vercel.app/api?username=realtofuine&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![realtofuine's GitHub stats](https://github-readme-stats-fixed.vercel.app/api?username=realtofuine&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 [![realtofuine's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tofuine)](https://github.com/anuraghazra/github-readme-stats)
 
